@@ -1,7 +1,7 @@
 {
   "name": "@ow3/dummy-composable",
   "version": "0.1.4",
-  "packageManager": "pnpm@7.3.0",
+  "packageManager": "pnpm@8.15.7",
   "description": "A composable starter kit that makes a great DX.",
   "author": "Chris Breuer <chris@ow3.org>",
   "license": "MIT",
@@ -45,7 +45,7 @@
   ],
   "engines": {
     "node": ">=v16.15.1",
-    "pnpm": ">=7.3.0"
+    "pnpm": ">=8.15.7"
   },
   "scripts": {
     "build": "unbuild",
